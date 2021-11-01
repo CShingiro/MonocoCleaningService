@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "vicomay";
+    src: url(Fonts/ufonts.com_vi-co-may.ttf);
+}
+
+h1 {
+    font-family: "vicomay";
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    font-size: 150px;
+}
+
+#bottle {
+    float: left;
+    margin-right: 30px;
+}
+
+#vacuum {
+    float: inline-start;
+    margin-top: -30px;
+}
+
+nav {
+    text-align: right;
+    padding-top: 5px;
+    margin-left: 12px;
+    font-family: "vicomay";
+    font-size: 100px;
+}
+
+a {
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+#blue_bar {
+    height: 15px;
+    width: 100%;
+    background-color: blue;
+}
+
+#red_bar {
+    height: 15px;
+    width: 100%;
+    background-color: red;
+}
+
+#footer_text {
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
