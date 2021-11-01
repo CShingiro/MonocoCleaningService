@@ -11,6 +11,15 @@ h1 {
     font-size: 150px;
 }
 
+#welcome_header {
+    font-family: "vicomay";
+    font-weight: bold;
+    text-align: center;
+    float: right;
+    font-size: 100px;
+    margin-right: 15%;
+}
+
 #bottle {
     float: left;
     margin-right: 30px;
@@ -27,6 +36,7 @@ nav {
     margin-left: 12px;
     font-family: "vicomay";
     font-size: 100px;
+    background-attachment: fixed;
 }
 
 a {
@@ -52,6 +62,16 @@ a:hover {
     height: 15px;
     width: 100%;
     background-color: red;
+}
+
+#home_image {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#yosief {
+    width: 50%;
 }
 
 #footer_text {
